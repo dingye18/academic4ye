@@ -51,5 +51,5 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: "me.yeah-ting.com"
+website: "academic.ye-ding.cn"
 ---
