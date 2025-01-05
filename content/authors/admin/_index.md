@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Algorithm Researcher of Computational Aided Drug Design
+role: Researcher of Computational Aided Drug Design
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -48,67 +48,45 @@ profiles:
     label: Subscribe to my blog via RSS feed
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Biophysics
+  - Molecular Dynamics
+  - Statistical Mechanics
+  - AI4Science
+  - Computer Aided Drug Design
   
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Biophysics
+    institution: Westlake University
+    date_start: 2018-09-01
+    date_end: 2024-03-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
       
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  - area: BSc Applied Physics
+    institution: Dalian University of Technology
+    date_start: 2014-09-01
+    date_end: 2018-06-30
+    summary: | 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Statistical Mechanics
+      - Quantum Physics
+      In addition to studying physics courses, I also joined the school's supercomputing club, where I learned more high-performance computing technologies and programming skills.
+  
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Researcher of CADD
+    company_name: DP Tech
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-04-15
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+      - Build up Uni-FEP package for protein-ligand binding free energy evaluation.
+      - Developed GCMC algorithm on OpenMM molecular dynamics engine for the enhanced sampling on water molecules in the cavity.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -146,11 +124,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Chinese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -188,5 +164,5 @@ awards:
 
 Ye Ding is currently a researcher in computer-aided drug design algorithms at [DP Technology](https://www.dp.tech/en). 
 He is mainly engaged in the development of Uni-FEP, a physics-based protein-ligand binding free energy calculation tool. He was graduated from the School of Life Sciences of [Westlake University](https://en.westlake.edu.cn/) with a PhD in computational biophysics. 
-My supervisor is [Professor. Jing Huang](http://www.compbiophysics.org/). 
-Before pursuing my PhD at Westlake University, I studied at the School of Physics of Dalian University of Technology.
+Supervised by [Professor. Jing Huang](http://www.compbiophysics.org/). 
+Before pursuing the PhD at Westlake University, he was studied at the School of Physics of Dalian University of Technology.
