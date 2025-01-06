@@ -70,10 +70,12 @@ education:
     date_start: 2014-09-01
     date_end: 2018-06-30
     summary: | 
+      In addition to studying physics courses, I also joined the school's supercomputing club, 
+      where I learned high-performance computing technologies and programming skills.
       Courses included:
       - Statistical Mechanics
       - Quantum Physics
-      In addition to studying physics courses, I also joined the school's supercomputing club, where I learned more high-performance computing technologies and programming skills.
+      
   
 
 work:
