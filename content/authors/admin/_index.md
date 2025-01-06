@@ -102,27 +102,27 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: C++
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: CUDA
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+  - name: Molecular Dynamics and Force Fields
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: CHARMM36m
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
-      - name: Cats
+      - name: OpenMM
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Gromacs
         description: ''
         percent: 80
         icon: camera
