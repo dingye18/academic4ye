@@ -60,8 +60,10 @@ education:
     date_start: 2018-09-01
     date_end: 2024-03-30
     summary: |
+      My PhD life was circled by the developing of the accurate Force Field for metalloproteins.
+      More specifically, we integrated Neural Network Potentials and Molecular Mechanics for the modeling of the zinc-protein interactions.
+      The work was published at *The Journal of Physical Chemistry Letters*: [DP/MM: A Hybrid Model for Zinc--Protein Interactions in Molecular Dynamics](https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.3c03158)   
       
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
@@ -72,6 +74,7 @@ education:
     summary: | 
       In addition to studying physics courses, I also joined the school's supercomputing club, 
       where I learned high-performance computing technologies and programming skills.
+
       Courses included:
       - Statistical Mechanics
       - Quantum Physics
